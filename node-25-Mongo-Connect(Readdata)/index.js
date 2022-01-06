@@ -11,7 +11,7 @@ etlee aa URL ni link je 6e tema mongodb na localhost :27017 mate j used thase
 aa bydefualt mongo db ma banavelo 6ee ok..
 */
 
-const url = 'mongodb://localhost:27017';
+const url = 'mongodb://localhost:port number';
 
 //....step-2 ===> conect url with client
 
