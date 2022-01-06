@@ -1,5 +1,5 @@
 const { MongoClient} = require('mongodb');
-const url = "mongodb://localhost:27017";
+const url = "mongodb://localhost:port number";
 
 const client =  new MongoClient(url);
 
