@@ -1,0 +1,15 @@
+{
+  "name": "connecton",
+  "version": "1.0.0",
+  "description": "this is read data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "author": "harshit patel",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.2.0"
+  }
+}
